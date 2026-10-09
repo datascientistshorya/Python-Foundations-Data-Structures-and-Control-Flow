@@ -1,0 +1,2 @@
+# Python-Foundations-Data-Structures-and-Control-Flow
+A beginner-friendly Python learning project covering strings, lists, tuples, sets, dictionaries, and control flow. Explore 100 structured control-flow questions, hands-on coding exercises, practical problem-solving techniques, and real-world data analysis examples.Built for students, freshers, and  professionals to develop strong Python foundations
